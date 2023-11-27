@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Rust%20Study%20Guy&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Korean%20Rust%20Study&animation=scaleIn)
 </div>
 ## 📞 Contact 📞 
 </a>
