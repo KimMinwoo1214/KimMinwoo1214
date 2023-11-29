@@ -13,7 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Rust%20Main&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Kim%20Minwoo&animation=scaleIn)
+
+# My Coding Study Record
+## _With rust_
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+
 </div>
 ## 📞 Contact 📞 
 </a>
