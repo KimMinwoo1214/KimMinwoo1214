@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimMinwoo1214&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" />
 
 </div>
+<br>
 ## 📞 Contact 📞 
 </a>
     <a href="https://www.linkedin.com/in/민우-김-8b6aa8291">
