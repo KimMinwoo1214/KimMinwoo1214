@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Kim%20Minwoo&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Kim%20Minwoo&animation=scaleIn&color=timeAuto)
 
 # My Coding Study Record
 ## _With rust_
