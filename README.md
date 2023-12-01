@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 <br>
 ## 📞 Contact 📞 
 </a>
+<br>
     <a href="https://www.linkedin.com/in/민우-김-8b6aa8291">
         <img src="https://img.shields.io/badge/Linked%20in-0A66C2%3Fstyle%3Dsquare%26logo%3Din%26logoColor%3Dwhite"> 
