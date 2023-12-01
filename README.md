@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimMinwoo1214&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" />
 
 <br/>
-####: I've used  <br/>
+# Once I've used <br/>
 <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
