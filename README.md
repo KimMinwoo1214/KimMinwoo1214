@@ -1,14 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Kim%20Minwoo&animation=scaleIn&color=timeAuto)
+<div align="center">
 
-# My Study Record
-## With Rust, Python, Arduino, ROS, And C/C++ etc
+![header](https://capsule-render.vercel.app/api?type=waving&text=Kim%20Minwoo&animation=scaleIn&color=timeAuto)
+<div align="center">
+  
+  # My Study Record
+  ## With Rust, Python, Arduino, ROS, And C/C++ etc
 <div align="center">
   <a href="s">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimMinwoo1214&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" />
 <br/>
 </div>
-
-## Skills
+<div align="center">
+  
+  ## 🌟Skills🌟
 
 <br/>
 <div align="center">
