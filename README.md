@@ -5,7 +5,7 @@
   
   # My Study Record
   ## With Rust, Python, Arduino, ROS, And C/C++, etc
-  ### Now I study computer programming through Kg Kairos and naver boost course.
+  ### Now I study computer programming in [Kg Kairos](https://kg-kairos.kr) and [Naver Boost Course](https://boostcourse.org).
 <div align="center">
   <a href="s">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimMinwoo1214&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" />
