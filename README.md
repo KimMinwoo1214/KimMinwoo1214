@@ -16,6 +16,8 @@
   ## 🌟Skills🌟
 
 <br/>
+
+### About Python
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/openCV-11557c.svg?style=for-the-badge&logo=openCV&logoColor=white">
@@ -25,6 +27,17 @@
 </div>
 <br/>
 
+### About Embedded
+<div align="center">
+  <img src="https://img.shields.io/badge/STM%20-%20%2303234B?style=for-the-badge&logo=stmicroelectronics">
+  <img src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
+  <img src="https://img.shields.io/badge/C%2B%2B%20-%20%2300599C?style=for-the-badge&logo=C%2B%2B">
+  <img src="https://img.shields.io/badge/C%20-%20%23A8B9CC?style=for-the-badge&logo=C&logoColor=00599C">
+</div>
+<br/>
+
+### Record
 <div align="center">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white">
@@ -32,15 +45,10 @@
 </div>
 <br/>
 
+### Others
 <div align="center">
   <img src="https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-  <br/>
-  
-<div align="center">
-  <img src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
 </div>
 <br/>
 
