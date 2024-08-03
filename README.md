@@ -52,3 +52,15 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     <a href="https://www.linkedin.com/in/민우-김-8b6aa8291">  
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
+</div>
+<br/>
+
+# Project
+
+## [Project Monguard](https://github.com/MiRuAE/project_monguard) (2024.04 ~ 2024.06)
+</div>
+<div align="center">
+
+  My first project using GitHub is *Monguard*. The goal of the project was to create a two-wheeled legged balancing robot using an Arduino Uno with register level and BLDC motors.
+  Our team faced numerous difficulties, and ultimately, we had to shift our goal to developing a four-wheeled robot. Despite these challenges, we gained valuable experience with BLDC motor control and PID control hardware design through various attempts.
