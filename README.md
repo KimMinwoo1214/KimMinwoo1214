@@ -49,6 +49,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/Fusion360-%23000000?style=for-the-badge&logo=autodesk">
 </div>
 <br/>
 
