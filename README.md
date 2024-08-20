@@ -29,7 +29,7 @@
 
 ### About Embedded
 <div align="center">
-  <img src="https://img.shields.io/badge/STM%20-%20%2303234B?style=for-the-badge&logo=stmicroelectronics">
+  <img src="https://img.shields.io/badge/STM32%20-%20%2303234B?style=for-the-badge&logo=stmicroelectronics">
   <img src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
   <img src="https://img.shields.io/badge/C%20-%20%23A8B9CC?style=for-the-badge&logo=C&logoColor=00599C">
