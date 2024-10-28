@@ -85,5 +85,4 @@
 
 ## [Kairos Main Project](https://github.com/KimMinwoo1214/kairos_main_project) (2024.11 ~ )
 <div align="center">
-Our library book management system concentrates on automating book borrowing and returns service, which supports librarians work performance and enhances its efficiency.
-Additionally, the system offers book recommendations tailored to user preferences, and librarians are equipped to manage the database and handle any system errors manually. This system aims to create an efficient, user-friendly library experience for both users and librarians alike. 
+In KG-Kairos, our team has developed an automated library book management system focused on streamlining the borrowing and returning processes. This system enhances efficiency by supporting librarians in their work and includes features like book recommendations tailored to user preferences. Librarians can also manage the database and handle any system errors manually, creating a more efficient and user-friendly experience for both library users and staff.
