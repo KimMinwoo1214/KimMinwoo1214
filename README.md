@@ -4,7 +4,7 @@
 <div align="center">
   
   # My Study Record
-  ## With Rust, Python, Arduino, ROS, And C/C++, etc
+  ## With Rust, Python, Arduino, ROS/ROS2, And C/C++, etc
   ### Now I study computer programming in [Kg Kairos](https://kg-kairos.kr) and [Naver Boost Course](https://boostcourse.org).
   <a href="s">
     <img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimMinwoo1214&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" />
