@@ -75,7 +75,7 @@
   Our team faced numerous difficulties, and ultimately, we had to shift our goal to developing a four-wheeled robot. Despite these challenges, we gained valuable experience with BLDC motor control and PID control hardware design through various attempts.
 <div/>
   
-## [Kairos Side Project](https://github.com/KimMinwoo1214/side_project) (2024.07 ~ )
+## [Kairos Side Project](https://github.com/KimMinwoo1214/side_project) (2024.07 ~ 10)
 <div align="center">
 
   Our team decided to create an autonomous AGV (Automated Guided Vehicle) with a robotic arm as a side project before starting the main project. 
@@ -83,6 +83,6 @@
   As part of this process, we plan to use sensors like LiDAR, which we’ve wanted to try, and incorporate BLDC motors. Through these activities, we hope to assess everyone's skills before the main project and ensure a smoother execution of the main project.
 
 
-## [Kairos Main Project](https://github.com/KimMinwoo1214/kairos_main_project) (2024.11 ~ )
+## [Kairos Main Project](https://github.com/KimMinwoo1214/kairos_main_project) (2024.10 ~ 12)
 <div align="center">
 In KG-Kairos, our team has developed an automated library book management system focused on streamlining the borrowing and returning processes. This system enhances efficiency by supporting librarians in their work and includes features like book recommendations tailored to user preferences. Librarians can also manage the database and handle any system errors manually, creating a more efficient and user-friendly experience for both library users and staff.
