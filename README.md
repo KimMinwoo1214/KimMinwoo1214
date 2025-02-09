@@ -74,14 +74,6 @@
   My first project using GitHub is *Monguard*. The goal of the project was to create a two-wheeled legged balancing robot using an Arduino Uno with register level and BLDC motors.
   Our team faced numerous difficulties, and ultimately, we had to shift our goal to developing a four-wheeled robot. Despite these challenges, we gained valuable experience with BLDC motor control and PID control hardware design through various attempts.
 <div/>
-  
-## [Kairos Side Project](https://github.com/KimMinwoo1214/side_project) (2024.07 ~ 10)
-<div align="center">
-
-  Our team decided to create an autonomous AGV (Automated Guided Vehicle) with a robotic arm as a side project before starting the main project. 
-  We plan to begin with hardware design using CAD(Computer Aided Design) and move on to tasks like learning to recognize signs and traffic lights. Additionally, we aim to train the robotic arm to sort recyclable waste, creating a recycling robot arm. 
-  As part of this process, we plan to use sensors like LiDAR, which we’ve wanted to try, and incorporate BLDC motors. Through these activities, we hope to assess everyone's skills before the main project and ensure a smoother execution of the main project.
-
 
 ## [Kairos Main Project](https://github.com/KimMinwoo1214/kairos_main_project) (2024.10 ~ 12)
 <div align="center">
