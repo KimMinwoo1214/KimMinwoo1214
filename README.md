@@ -5,7 +5,8 @@
   
   # My Study Record
   ## With Rust, Python, Arduino, ROS/ROS2, And C/C++, etc
-  ### Now I study computer programming in [Kg Kairos](https://kg-kairos.kr) and [Naver Boost Course](https://boostcourse.org).
+  ### Now I study computer programming in Hanyang University.
+  
   <a href="s">
     <img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimMinwoo1214&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" />
     <p>&nbsp;<img align = "center" src="https://github-readme-stats.vercel.app/api?username=kimminwoo1214&show_icons=true&locale=en" alt="KimMinwoo" /></p>
@@ -79,7 +80,17 @@
 <div align="center">
 In KG-Kairos, our team has developed an automated library book management system focused on streamlining the borrowing and returning processes. This system enhances efficiency by supporting librarians in their work and includes features like book recommendations tailored to user preferences. Librarians can also manage the database and handle any system errors manually, creating a more efficient and user-friendly experience for both library users and staff.
 
+## [AutoDriving Contest] (2025.02 ~ )
+<div align="center">
+I prepared "International AutoDriving Contest" with my friends. In this contest, I use Ros2 Humble, GPS, 3D LiDAR, etc. 
 
 ## [Drone Project](https://github.com/KimMinwoo1214/Microprocessor) (2025.03 ~ 06)
 <div align='center'>
   In Microprocessor class, out team made drone which can detect fire. At first, our team's goal is hybrid drone car. However, due to time we only made drone. In this system, we can send control command with bluetooth module and then by using ppm signal Flying Control F3 control 4 BLDC with PID Control. 
+
+</div>
+<br/>
+
+# My Career
+## Now, I am hanyang university student with bachelor's degree (2020 ~ ).
+## I was in [Kg Kairos](https://kg-kairos.kr) (2024.06 ~ 12). In there, I learned ROS, C/C++, and STM32 etc.
